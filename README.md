@@ -4,7 +4,7 @@ GitHub Organization のプロフィールを定義するリポジトリ。
 
 ## プロフィールを編集する
 
-GitHub Organization のプロフィールは `.github/profile/README.md` になります。
+GitHub Organization のプロフィールは [`.github/profile/README.md`](./profile/README.md) になります。
 
 **編集時の注意事項:**
 
