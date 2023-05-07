@@ -1,0 +1,21 @@
+{
+  "name": "github",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "private": true,
+  "author": {
+    "name": "Codrawers",
+    "email": "info@codrawers.dev",
+    "url": "https://codrawers.dev"
+  },
+  "scripts": {
+    "format": "prettier --write ./profile/README.md",
+    "check": "prettier --check ./profile/README.md"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
